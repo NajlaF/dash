@@ -54,6 +54,3 @@ fig.layout.update({'height':800})
 # Plot!
 fig.show()
 
-
-if __name__ == "__main__":
-    app.run_server(debug=True, port=8050)
